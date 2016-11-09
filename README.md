@@ -1,0 +1,2 @@
+# goclip
+Go play clipboard 
